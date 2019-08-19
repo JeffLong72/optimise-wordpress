@@ -1,7 +1,0 @@
-{
-  "name": "JeffLong72/optimise-wordpress",
-  "type": "wordpress-plugin",
-  "require": {
-    "composer/installers": "v1.0.6"
-  }
-}
