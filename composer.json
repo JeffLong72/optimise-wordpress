@@ -1,0 +1,11 @@
+{
+  "name": "JeffLong72/optimise-wordpress",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/JeffLong72/optimise-wordpress",
+  "license": "GPL-2.0",
+  "description": "Optimise Wordpress",
+  "keywords": ["plugin","wordpress"],
+  "require": {
+    "composer/installers": "~1.0.6"
+  }
+}
