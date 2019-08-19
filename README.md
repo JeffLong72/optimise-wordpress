@@ -1,5 +1,5 @@
 # optimise-wordpress
-Plugin with various functions to optimise wordpress
+Plugin with various functions to optimise wordpress 5.2.2
 
 ## Modifies Wordpress to improve site performance. 
 
